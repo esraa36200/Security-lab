@@ -20,7 +20,7 @@ import os
 import numpy as np
 
 
-
+#ghghfhhh
 
 # Imports for loading and converting images to arrays (for Keras)
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
